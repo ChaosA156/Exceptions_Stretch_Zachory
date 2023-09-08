@@ -1,0 +1,14 @@
+C:\Users\ZachoryStretch\source\repos\Exceptions_Stretch_Zachory\bin\Debug\net6.0\Exceptions_Stretch_Zachory.exe
+C:\Users\ZachoryStretch\source\repos\Exceptions_Stretch_Zachory\bin\Debug\net6.0\Exceptions_Stretch_Zachory.deps.json
+C:\Users\ZachoryStretch\source\repos\Exceptions_Stretch_Zachory\bin\Debug\net6.0\Exceptions_Stretch_Zachory.runtimeconfig.json
+C:\Users\ZachoryStretch\source\repos\Exceptions_Stretch_Zachory\bin\Debug\net6.0\Exceptions_Stretch_Zachory.dll
+C:\Users\ZachoryStretch\source\repos\Exceptions_Stretch_Zachory\bin\Debug\net6.0\Exceptions_Stretch_Zachory.pdb
+C:\Users\ZachoryStretch\source\repos\Exceptions_Stretch_Zachory\obj\Debug\net6.0\Exceptions_Stretch_Zachory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZachoryStretch\source\repos\Exceptions_Stretch_Zachory\obj\Debug\net6.0\Exceptions_Stretch_Zachory.AssemblyInfoInputs.cache
+C:\Users\ZachoryStretch\source\repos\Exceptions_Stretch_Zachory\obj\Debug\net6.0\Exceptions_Stretch_Zachory.AssemblyInfo.cs
+C:\Users\ZachoryStretch\source\repos\Exceptions_Stretch_Zachory\obj\Debug\net6.0\Exceptions_Stretch_Zachory.csproj.CoreCompileInputs.cache
+C:\Users\ZachoryStretch\source\repos\Exceptions_Stretch_Zachory\obj\Debug\net6.0\Exceptions_Stretch_Zachory.dll
+C:\Users\ZachoryStretch\source\repos\Exceptions_Stretch_Zachory\obj\Debug\net6.0\refint\Exceptions_Stretch_Zachory.dll
+C:\Users\ZachoryStretch\source\repos\Exceptions_Stretch_Zachory\obj\Debug\net6.0\Exceptions_Stretch_Zachory.pdb
+C:\Users\ZachoryStretch\source\repos\Exceptions_Stretch_Zachory\obj\Debug\net6.0\Exceptions_Stretch_Zachory.genruntimeconfig.cache
+C:\Users\ZachoryStretch\source\repos\Exceptions_Stretch_Zachory\obj\Debug\net6.0\ref\Exceptions_Stretch_Zachory.dll
